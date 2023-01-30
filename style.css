@@ -2,7 +2,7 @@ header{;
     width: 100%;
     background-image: url(../html-css-booleaner/img/pattern.png);
     background-size: contain;
-    background-color: rgb(105, 105, 200);
+    background-color: #4da1ff;
 }
 
 .logo{
@@ -11,15 +11,16 @@ header{;
     width: 250px;
 }
 h4{
-    color: grey;
+   color: grey;
 }
 
 a{
-    color: lightseagreen;
+  color: lightseagreen;
 }
 
 .table{
     text-align: left;
+    border-collapse: collapse;
 }
 
 thead{
@@ -40,19 +41,21 @@ span{background-color: yellow;
 }
 
 .graphic{
+    background-image: url(../html-css-booleaner/img/graph.jpg);
+}
+
+.monitor{
+    background-image: url(../html-css-booleaner/img/monitor.jpg);
+}
+
+.graphic, .monitor{
     color: white;
     font-weight: bold;
     font-size: 25px;
     width: 300px;
     height: 200px;
-    background-image: url(../html-css-booleaner/img/graph.jpg);
 }
 
-.monitor{
-    color:white;
-    font-weight: bold;
-    font-size: 25px;
-    width: 300px;
-    height: 200px;
-    background-image: url(../html-css-booleaner/img/monitor.jpg);
+.cella{
+    width: 50%;
 }
