@@ -7,8 +7,12 @@
 header{
     width: 140px;
 }
-<p>{
+h4{
     color: grey;
+}
+
+a{
+    color: lightseagreen;
 }
 
 .table{
