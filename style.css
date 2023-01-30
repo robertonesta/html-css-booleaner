@@ -1,4 +1,5 @@
 .logo{
+    width: 150px;
     background-image: url(../html-css-booleaner/img/pattern.png);
     background-size: contain;
     background-color: rgb(105, 105, 200);
