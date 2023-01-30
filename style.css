@@ -1,14 +1,51 @@
 .logo{
-    width: 150px;
     background-image: url(../html-css-booleaner/img/pattern.png);
     background-size: contain;
     background-color: rgb(105, 105, 200);
 }
 
+header{
+    width: 140px;
+}
 <p>{
     color: grey;
 }
 
 .table{
     text-align: left;
+}
+
+thead{
+    color: white;
+    background-color: rgb(39, 39, 193);
+}
+
+tbody{
+    color: black;
+    background-color: rgb(83, 161, 210);
+}
+
+span{background-color: yellow;
+
+}
+.second_raw{
+    background-color: white;
+}
+
+.graphic{
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    width: 300px;
+    height: 200px;
+    background-image: url(../html-css-booleaner/img/graph.jpg);
+}
+
+.monitor{
+    color:white;
+    font-weight: bold;
+    font-size: 25px;
+    width: 300px;
+    height: 200px;
+    background-image: url(../html-css-booleaner/img/monitor.jpg);
 }
