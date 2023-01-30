@@ -1,11 +1,14 @@
-.logo{
+header{;
+    width: 100%;
     background-image: url(../html-css-booleaner/img/pattern.png);
     background-size: contain;
     background-color: rgb(105, 105, 200);
 }
 
-header{
-    width: 140px;
+.logo{
+    padding-top: 30px;
+    height: 55px;
+    width: 250px;
 }
 h4{
     color: grey;
